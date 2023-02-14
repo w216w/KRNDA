@@ -1,5 +1,5 @@
 clear;
-load 'D:\knlda\数据集\coil_5_5_minmax.mat';
+load 'D:\knlda\Datasets\coil_5_5_minmax.mat';
 result = 0;
 number_length = length(Gallery.y);
 for  count = 1:10
