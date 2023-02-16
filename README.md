@@ -1,6 +1,6 @@
 # Kernel Reverse Neighborhood Discriminant Analysis
 
-This repository contains the implementation files of the mentioned paper. Please cite the following if you use this implementations:
+This repository contains the implementation files for the above paper. If you use this implementation, please cite our article and the following:
 
  @article{Zhu2022,
   title={Neighborhood linear discriminant analysis},
